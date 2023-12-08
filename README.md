@@ -13,7 +13,7 @@ I'm a <strong>Software Engineer</strong>  with 3 years of experience 🧠 . I'm 
 <img align="left" alt="Francisco Fares Instagram" width="22px" src="https://icongr.am/fontawesome/instagram.svg?size=128&color=70c8ff" />
 </a>
 <a href="https://www.fiverr.com/users/franciscofares/seller_dashboard">
-<img align="left" alt="Francisco Fares Fiverr" width="22px" src="https://icongr.am/fontawesome/twitch.svg?size=128&color=70c8ff" />
+<img align="left" alt="Francisco Fares Fiverr" width="22px" src="https://fontawesome.com/icons/briefcase?f=classic&s=solid" />
 </a>
 
 <br />
