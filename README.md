@@ -38,6 +38,3 @@ I'm a <strong>Software Engineer</strong>  with 3 years of experience 🧠 . I'm 
 <code><img height="20" src="./assets/postgre.png"></code>
 <code><img height="20" src="./assets/MySQL-logo.png"></code>
 <code><img height="20" src="./assets/aws.png"></code>
-
-
----
