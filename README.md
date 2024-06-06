@@ -18,8 +18,6 @@ I'm a <strong>Software Engineer</strong>  with 3 years of experience 🧠 . I'm 
 
 <br />
 
-<img align="right" alt="GIF" src="./assets/banner.jpg" width="240px" />
-
 <br />
 
 ## What i'm up to
