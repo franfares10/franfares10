@@ -22,7 +22,7 @@ I'm a <strong>Software Engineer</strong>  🧠 . Web development professor at [U
 
 ## What i'm up to
 
-- 🔭 I’m currently working @ [CognitLabs](https://cognitlabs.com/), @ [UADE](https://www.uade.edu.ar/) & @ [Coderhouse](https://www.coderhouse.com/?pipe_source=google&pipe_medium=cpc&pipe_campaign=0&gad_source=1&gclid=CjwKCAiAmsurBhBvEiwA6e-WPGasEPl64eF0MyMhbDw7PR3rt8Ucwszka8XE4YyA18EgsPQPQcy5-BoC-c8QAvD_BwE).
+- 🔭 I’m currently working @ [Ingenia](https://ingenia.la/es), @ [UADE](https://www.uade.edu.ar/).
 - 🌱 I’m currently working with [Typescript](https://www.typescriptlang.org/), [React](https://reactjs.org), [Node.js](https://nodejs.org/) & [AWS](https://aws.amazon.com/).
 
 <br />
