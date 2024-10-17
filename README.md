@@ -30,8 +30,8 @@ I'm a <strong>Software Engineer</strong> 🧠 . Web development professor at [UA
 
 ## Languages and Tools
 
-<code><img height="20" src="./assets/Javascript.svg"></code>
-<code><img height="20" src="./assets/Typescript.svg"></code>
+<code><img height="20" src="./assets/JavaScript.svg"></code>
+<code><img height="20" src="./assets/TypeScript.svg"></code>
 <code><img height="20" src="./assets/React.svg"></code>
 <code><img height="20" src="./assets/Next.js.svg"></code>
 <code><img height="20" src="./assets/Node.js.svg"></code>
