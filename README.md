@@ -1,5 +1,6 @@
 ## Hello World 👋 It's [fran!](https://www.linkedin.com/in/francisco-fares/)
-I'm a <strong>Software Engineer</strong>  🧠 . Web development professor at [UADE](https://www.uade.edu.ar/) 👨‍🏫. In my free time I freelance [Fiverr](https://www.fiverr.com/franciscofares) 👨‍💻.
+
+I'm a <strong>Software Engineer</strong> 🧠 . Web development professor at [UADE](https://www.uade.edu.ar/) 👨‍🏫. In my free time I freelance [Fiverr](https://www.fiverr.com/franciscofares) 👨‍💻.
 
 <br/>
 
@@ -28,11 +29,15 @@ I'm a <strong>Software Engineer</strong>  🧠 . Web development professor at [U
 <br />
 
 ## Languages and Tools
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="./assets/node.png"></code>
-<code><img height="20" src="./assets/mongo.png"></code>
-<code><img height="20" src="./assets/postgre.png"></code>
-<code><img height="20" src="./assets/MySQL-logo.png"></code>
-<code><img height="20" src="./assets/aws.png"></code>
+
+<code><img height="20" src="./assets/Javascript.svg"></code>
+<code><img height="20" src="./assets/Typescript.svg"></code>
+<code><img height="20" src="./assets/React.svg"></code>
+<code><img height="20" src="./assets/Next.js.svg"></code>
+<code><img height="20" src="./assets/Node.js.svg"></code>
+<code><img height="20" src="./assets/Nest.js.svg"></code>
+<code><img height="20" src="./assets/PostgresSQL.svg"></code>
+<code><img height="20" src="./assets/MongoDB.svg"></code>
+<code><img height="20" src="./assets/MySQL.svg"></code>
+<code><img height="20" src="./assets/AWS.svg"></code>
+<code><img height="20" src="./assets/Azure.svg"></code>
